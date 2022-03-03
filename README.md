@@ -1,7 +1,7 @@
-### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I'm Ngunyi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-🎓  Computer Engineering Student <br/>
-⭐️  Interests: software and web development, UI/UX, and cybersecurity
+🎓  Computer Engineer <br/>
+⭐️  Interests: diving into the shell and the Mare Tranquillitatis
 
 **Let's connect**
 
@@ -12,11 +12,11 @@
 
 **GitHub Stats**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joiellantero&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngunyi&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ngunyi&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/ngunyi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngunyi&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/ngunyi/github-readme-stats)
 
 **Latest Blog Posts**
 
@@ -26,6 +26,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.tech/
-[linkedin]: https://www.linkedin.com/in/joiellantero/
-[email]: mailto:jatllantero@gmail.com
+[linkedin]: https://www.linkedin.com/in/stanleygathagu/
+[email]: mailto:stanngathagu@gmail.com
 [devto]: https://dev.to/joiellantero
