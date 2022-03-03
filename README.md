@@ -1,119 +1,31 @@
-# Hi there, I'm Ngunyi 👋 
+### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drusktech.github.io/Drusk/)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+🎓  Computer Engineering Student <br/>
+⭐️  Interests: software and web development, UI/UX, and cybersecurity
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+**Let's connect**
 
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
+[![blog](https://img.shields.io/badge/blog-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)][website]
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)][devto]
 
-## I'm a Learner, Developer, and Teacher!!
+**GitHub Stats**
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and write fantasy stories
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joiellantero&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Connect with me:
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![website](./img/globe-light.svg)](https://drusktech.github.io/Drusk/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://drusktech.github.io/Drusk/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-<!-- &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/stanleygathagu#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/stanleygathagu#gh-dark-mode-only)
-<!-- &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br />
-<br />
-
----
-<!-- 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Is Your NFT Rare? &lpar;Don&#39;t Buy or Sell Before Checking!!&rpar; - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
-- [What the Heck is ERC!? Ethereum Blockchain](https://www.youtube.com/watch?v=hf-Qk0Hx00E)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
---- -->
-
-### 📕 Latest Blog Posts
+**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
+- [Python: Building An Offline Random Name Picker](https://dev.to/joiellantero/python-building-an-offline-random-name-picker-4l0i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://joiellantero.tech/
+[linkedin]: https://www.linkedin.com/in/joiellantero/
+[email]: mailto:jatllantero@gmail.com
+[devto]: https://dev.to/joiellantero
