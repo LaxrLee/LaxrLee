@@ -25,7 +25,7 @@
 - [Python: Building An Offline Random Name Picker](https://dev.to/joiellantero/python-building-an-offline-random-name-picker-4l0i)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://joiellantero.tech/
+[website]: https://drusktech.github.io/Drusk/
 [linkedin]: https://www.linkedin.com/in/stanleygathagu/
 [email]: mailto:stanngathagu@gmail.com
-[devto]: https://dev.to/joiellantero
+[devto]: https://dev.to/ngunyi
