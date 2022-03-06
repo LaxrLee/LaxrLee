@@ -12,11 +12,11 @@
 
 **GitHub Stats**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngunyi&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LaxrLee&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ngunyi&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/ngunyi/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LaxrLee&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/LaxrLee/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngunyi&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/ngunyi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxrLee&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/LaxrLee/github-readme-stats)
 
 **Latest Blog Posts**
 
