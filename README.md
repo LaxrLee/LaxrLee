@@ -1,4 +1,4 @@
-### Hi, I'm Ngunyi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I'm LaxrLee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 🎓  Computer Engineer <br/>
 ⭐️  Interests: diving into the shell and the Mare Tranquillitatis
