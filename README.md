@@ -28,4 +28,4 @@
 [website]: https://drusktech.github.io/Drusk/
 [linkedin]: https://www.linkedin.com/in/stanleygathagu/
 [email]: mailto:stanngathagu@gmail.com
-[devto]: https://dev.to/ngunyi
+[devto]: https://dev.to/laxrlee
