@@ -3,7 +3,7 @@
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "homepage": "https://laxrlee.github.io/LaxrLee/home",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
