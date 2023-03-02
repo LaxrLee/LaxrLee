@@ -1,5 +1,7 @@
 {
   "name": "home",
+  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "homepage": "https://laxrlee.github.io/LaxrLee/home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.3.4",
     "bootstrap": "^5.2.3",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
@@ -47,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
