@@ -23,6 +23,7 @@ import Leadership from "./components/home/Leadership.jsx";
 
 import Experience from "./components/home/Experience";
 
+
 const Home = React.forwardRef((props, ref) => {
   return (
     <>
@@ -83,6 +84,7 @@ const App = () => {
       {navBar.show && <Navbar ref={titleRef} />}
       <Routes>
         <Route path="/" exact element={<Home ref={titleRef} />} />
+        <Route path="/home/" element={<Home ref={titleRef} />} />
       </Routes>
       {/* {false && <Route path="/blog" exact component={Blog} />}
       {false && <Route path="/blog/:id" component={BlogPost} />} */}

@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/prof.jpg"),
+  imageLink: require("./prof.jpg"),
   imageSize: 300,
   message:
     "My name is Stanley Gathagu.",
@@ -79,12 +79,12 @@ const leadership = {
     "TBD.",
   images: [
     { 
-      img: require("../editable-stuff/prof.jpg"), 
+      img: require("./prof.jpg"), 
       label: "First slide label", 
       paragraph: "TBD." 
     },
     { 
-      img: require("../editable-stuff/prof.jpg"), 
+      img: require("./prof.jpg"), 
       label: "Second slide label", 
       paragraph: "TBD." 
     },
